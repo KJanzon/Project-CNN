@@ -10,7 +10,7 @@ In this project, we classified images from the animals 10 data set.
 - Pre-processed data 
 - Built a sequential CNN model 
 - Optimized the model
-- Prediction accuracy of: XX%
+- Prediction accuracy of: 80,99%
 
 
 ## Repository Folders and Files
@@ -20,12 +20,13 @@ Here is a short description of the folder and files available on the repository.
 
 ### Documents
 - Presentation
+- holdout_subset.zip. You can use these images to predict with the model
 
 ### Notebooks  
 - split_validation_set: split the data set to one set for training and testing (90%) and a second one to make predictions (10%)
 - model_1.ypynb : The starting point model
 - model_optimized_ypnb: The optimized model
-- test_images: folder of unseen images to test on the model
+
 
 ## Installation
 Use **requirements.txt** to install the required packages to run the notebooks.
