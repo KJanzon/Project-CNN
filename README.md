@@ -1,6 +1,6 @@
 # Image Classification with CNN
 
-Build a Convolutional Neural Network (CNN) model to classify images from a given dataset into predefined categories/classes.
+This was a project during the course "AI Engineering". We Built a Convolutional Neural Network (CNN) model to classify images from a given dataset into predefined categories/classes.
 
 [Task Descriptions and Project Instructions](https://github.com/ironhack-labs/project-1-deep-learning-image-classification-with-cnn)
 
