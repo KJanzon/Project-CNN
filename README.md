@@ -33,6 +33,7 @@ Here is a short description of the folder and files available on the repository.
 - model_1.ypynb : The starting point model
 - model_optimized_ypnb: The optimized model
 - transfer_learning_winner.ipynb: using VGG16 to predict the data set
+- Deploy_gradio.ipynb: notebook to deploy the model to a website by using gradio
 
 
 ## Installation
