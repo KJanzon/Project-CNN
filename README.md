@@ -7,10 +7,14 @@ Build a Convolutional Neural Network (CNN) model to classify images from a given
 
 ## Project Results
 In this project, we classified images from the animals 10 data set.
-- Pre-processed data 
-- Built a sequential CNN model 
+
+<img width="1016" alt="Screenshot 2025-03-07 at 16 12 26" src="https://github.com/user-attachments/assets/56448240-a605-4b58-ad04-51b1e8e77a20" />
+
+- Built a sequential CNN model
 - Optimized the model
-- Prediction accuracy of: 80,99%
+- Prediction accuracy of on holdout data set: 80,99%
+- transfer learning from VGG16
+- Deployed on Gradio where user could upload image to predict animal class (link expired after 72 hours)
 
 [Project presenatation](
 https://docs.google.com/presentation/d/11OfQFu_mEn0karKFN0GwSh32nj1BKaMf4u_9GwSmyRY/edit#slide=id.p)
