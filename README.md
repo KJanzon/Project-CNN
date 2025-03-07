@@ -26,6 +26,7 @@ Here is a short description of the folder and files available on the repository.
 - split_validation_set: split the data set to one set for training and testing (90%) and a second one to make predictions (10%)
 - model_1.ypynb : The starting point model
 - model_optimized_ypnb: The optimized model
+- transfer_learning_winner.ipynb: using VGG16 to predict the data set
 
 
 ## Installation
