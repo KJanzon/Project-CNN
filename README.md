@@ -26,7 +26,6 @@ Here is a short description of the folder and files available on the repository.
 
 
 ### Documents
-- Presentation
 - holdout_subset.zip. You can use these images to predict with the model
 
 ### Notebooks  
