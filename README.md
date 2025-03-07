@@ -12,6 +12,9 @@ In this project, we classified images from the animals 10 data set.
 - Optimized the model
 - Prediction accuracy of: 80,99%
 
+[Project presenatation](Project presenatation:
+https://docs.google.com/presentation/d/11OfQFu_mEn0karKFN0GwSh32nj1BKaMf4u_9GwSmyRY/edit#slide=id.p)
+
 
 ## Repository Folders and Files
 
